@@ -1,0 +1,14 @@
+html, body{
+  /*text-align: center;*/
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat no-repeat;
+  margin-top: 25px;
+}

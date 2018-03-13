@@ -1,0 +1,8 @@
+<% include partials/header %>
+<div class = "container">
+  <h1><%= ejsData['title']%></h1>
+  <p>Image by: <%= ejsData['copyright']%></p>
+  <img src="<%= ejsData['url'] %>" class="img-fluid img-thumbnail">
+  <p><%= ejsData['explanation']%></p>
+</div>
+<% include partials/footer %>

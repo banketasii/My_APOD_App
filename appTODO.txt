@@ -1,0 +1,12 @@
+@Copmlete
+Create app folder skeleton with empty files
+Install all mods needed
+Add css
+Write index.js
+Write search.ejs
+Write results.ejs
+Write header.ejs partial
+Write footer.ejs partial
+
+
+@Incomplete
